@@ -12,6 +12,6 @@ patterns to run.
 
 
 To run the pattern in statefile.gol for x iterations:
-./go.php rand.1528016890.gol 500
+./go.php rand.1528016890.gol x
 
 Started by suprstar1072@gmail.com - 2016
