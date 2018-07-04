@@ -10,7 +10,6 @@ You can create blank starting matrices of dimensions [x,y] to create your own
 patterns to run.
 ./createZero.php x y
 
-
 To run the pattern in statefile.gol for x iterations:
 ./go.php rand.1528016890.gol x
 
@@ -144,3 +143,4 @@ i=3
 '                    '
 '--------------------'
 
+etc...
